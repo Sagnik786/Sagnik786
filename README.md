@@ -20,7 +20,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/Sagnik786/Sagnik786/blob/master/code.gif?raw=true" width="500" height="320"/>
   
-- 💬 ask me about anything, i am happy to help
+- 💬 ask me about anything, i am happy to help :)
 
 **languages and tools:**  
 
@@ -50,7 +50,6 @@ C++          0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider meeting me in person for a cup of tea or virtual chit-chat in another meta-verse 🥺👉👈
-
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
