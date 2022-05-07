@@ -27,7 +27,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -50,7 +49,7 @@ C++          0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 if you like what i do, maybe consider meeting me in person for a cup of tea or virtual chit-chat in another meta-verse 🥺👉👈
-<a href="https://www.facebook.com/sagnik.misra2 target="_blank"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" alt="Meet me for a cup of tea" width="150" ></a>
+
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
