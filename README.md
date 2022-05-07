@@ -51,13 +51,13 @@ C++          0 secs          ░░░░░░░░░░░░░░░░░
 
 if you like what i do, maybe consider meeting me in person for a cup of tea or virtual chit-chat in another meta-verse 🥺👉👈
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
+🚧 **my work stats:**
+<!-- WORK:START -->
 🏆  100 Days Of Continuous Code           
 🌸  Completed 0 tasks today           
 ✅  Completed 1000+ vital taks so far           
 ⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<!-- WORK:END -->
 
 
 📈 my github stats
