@@ -54,7 +54,7 @@ if you like what i do, maybe consider meeting me in person for a cup of tea or v
 🚧 **my work stats:**
 <!-- WORK:START -->
 🏆  100 Days Of Continuous Code           
-🌸  Completed 3 tasks today           
+🌸  Completed 2 tasks today           
 ✅  Completed 1000+ vital taks so far           
 ⏳  Longest streak is 10 days
 <!-- WORK:END -->
